@@ -1,0 +1,7 @@
+aws_access_key = "xxxxxxxxxxx"
+aws_secret_key = "xxxxxxxxxxxxxxxxxxxxxxxx"
+region         = "us-east-1"
+source_ami     = "ami-xxxxxxxxxxxxxx"
+instance_type  = "t2.micro"
+vpc_id             = "vpc-xxxxxxxxxxxxxxx"
+subnet_id          = "subnet-xxxxxxxxxxxxxx"
